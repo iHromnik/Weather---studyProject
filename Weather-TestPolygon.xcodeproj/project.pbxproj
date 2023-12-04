@@ -9,7 +9,7 @@
 /* Begin PBXBuildFile section */
 		3075B4402B1E2CA200E4B1D7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3075B43F2B1E2CA200E4B1D7 /* AppDelegate.swift */; };
 		3075B4422B1E2CA200E4B1D7 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3075B4412B1E2CA200E4B1D7 /* SceneDelegate.swift */; };
-		3075B4442B1E2CA200E4B1D7 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3075B4432B1E2CA200E4B1D7 /* ViewController.swift */; };
+		3075B4442B1E2CA200E4B1D7 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3075B4432B1E2CA200E4B1D7 /* LoginViewController.swift */; };
 		3075B4472B1E2CA200E4B1D7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3075B4452B1E2CA200E4B1D7 /* Main.storyboard */; };
 		3075B44A2B1E2CA200E4B1D7 /* Weather_TestPolygon.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 3075B4482B1E2CA200E4B1D7 /* Weather_TestPolygon.xcdatamodeld */; };
 		3075B44C2B1E2CA500E4B1D7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3075B44B2B1E2CA500E4B1D7 /* Assets.xcassets */; };
@@ -20,7 +20,7 @@
 		3075B43C2B1E2CA200E4B1D7 /* Weather-TestPolygon.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Weather-TestPolygon.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3075B43F2B1E2CA200E4B1D7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3075B4412B1E2CA200E4B1D7 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		3075B4432B1E2CA200E4B1D7 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		3075B4432B1E2CA200E4B1D7 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 		3075B4462B1E2CA200E4B1D7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		3075B4492B1E2CA200E4B1D7 /* Weather_TestPolygon.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Weather_TestPolygon.xcdatamodel; sourceTree = "<group>"; };
 		3075B44B2B1E2CA500E4B1D7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -60,7 +60,7 @@
 			children = (
 				3075B43F2B1E2CA200E4B1D7 /* AppDelegate.swift */,
 				3075B4412B1E2CA200E4B1D7 /* SceneDelegate.swift */,
-				3075B4432B1E2CA200E4B1D7 /* ViewController.swift */,
+				3075B4432B1E2CA200E4B1D7 /* LoginViewController.swift */,
 				3075B4452B1E2CA200E4B1D7 /* Main.storyboard */,
 				3075B44B2B1E2CA500E4B1D7 /* Assets.xcassets */,
 				3075B44D2B1E2CA500E4B1D7 /* LaunchScreen.storyboard */,
@@ -141,7 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3075B4442B1E2CA200E4B1D7 /* ViewController.swift in Sources */,
+				3075B4442B1E2CA200E4B1D7 /* LoginViewController.swift in Sources */,
 				3075B4402B1E2CA200E4B1D7 /* AppDelegate.swift in Sources */,
 				3075B44A2B1E2CA200E4B1D7 /* Weather_TestPolygon.xcdatamodeld in Sources */,
 				3075B4422B1E2CA200E4B1D7 /* SceneDelegate.swift in Sources */,
